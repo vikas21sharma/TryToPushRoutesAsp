@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\routesASPApplication.props" />
+</Project>
